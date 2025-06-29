@@ -2,7 +2,7 @@
 <p align="center"><strong><samp>Push UDP</samp></strong></p>
   <p align="center">
     <samp>
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Pushing+packets+and+staying+stateless" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=500&lines=Pushing+packets+and+staying+stateless" alt="Typing SVG" /></a>
     </samp>
   </p>
 
